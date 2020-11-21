@@ -11,7 +11,7 @@
 * 可[设置自动打卡时间](#dksj)，默认为每天7点5分
 * 默认每次提交上次所提交的内容（只有时间部分更新）
 * 位置信息与上一次打卡的位置相同，如需变更，可以在当天打卡时间前手动定位打卡，之后的位置信息会随之改变
-* Github-Actions打卡失败时会通过Github通知邮件发送至绑定的邮箱（需要手动设置Github账号绑定的邮箱）
+* Github-Actions打卡失败时会通过Github通知邮件发送至 绑定的邮箱（需要手动设置Github账号绑定的邮箱）
 
 ![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200817185806.png)
 
